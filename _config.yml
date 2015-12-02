@@ -1,4 +1,19 @@
-analytics: {}
+name: Capital Region Real Estate
+favicon: null
+layout_spectrum: 0.98967
+typography_spectrum: 0.75254
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
     - '#fefe00'
@@ -7,12 +22,7 @@ color:
     - '#787808'
     - '#b3b003'
   brandStrength: 0.5
-  lightness: 0.6805669681634754
-  rhythmicContrast: 0.11837757448665798
+  lightness: 0.625
   saturation: 0.8514754353091121
-cta: {}
-layout_spectrum: 0.74657
-name: Capital Region Real Estate
-opengraph: {}
+  rhythmicContrast: 0.5
 purpose: []
-typography_spectrum: 0.75254
